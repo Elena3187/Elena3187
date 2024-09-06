@@ -1,7 +1,4 @@
-Савчук Елена
 
-Пройденные курсы
-ИНЖЕНЕР ПО ТЕСТИРОВАНИЮ ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ 2023-2024
 
 <!---
 Elena3187/Elena3187 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
