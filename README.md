@@ -13,5 +13,5 @@
 
 ### Пример тестовой документации
 
-- [Чек-лист]
+- [Чек-лист](https://github.com/Elena3187/Check_List)
 - [Баг репорт](https://github.com/Elena3187/bug_reports/tree/main)
